@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.wdmstanatopraxiacom.com.br/sitemap.xml
+Sitemap: https://www.dmstanatopraxiacom.com.br/sitemap.xml
